@@ -21,8 +21,16 @@ null = 0
 // 1 = true, 0= false;
 // "" = false, " sa12" = true;
 
-let somenumber = 33
-let some = String(somenumber);
-console.log(some);
-console.log(typeof some);
+// let somenumber = 33
+// let some = String(somenumber);
+// console.log(some);
+// console.log(typeof some);
+
+
+
+// console.log("1" + "1" + 1 +1);
+console.log(-true);
+console.log(+false);
+console.log(+" ");
+console.log(-" ");
 
