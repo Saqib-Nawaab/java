@@ -1,9 +1,9 @@
-"use strict";
+// "use strict";
 
-let num = 1234
-let age = "Thirty two"
-let roll = null
-let vvv = true
+// let num = 1234
+// let age = "Thirty two"
+// let roll = null
+// let vvv = true
 // alert("Saqib ")
 /*
 
@@ -16,8 +16,12 @@ undefined -> let name;
 
 
 */
-console.log(typeof age);
-console.log(typeof num);
-console.log(typeof roll);
-console.log(typeof vvv);
-console.log(typeof undefined);
+// console.log(typeof age);
+// console.log(typeof num);
+// console.log(typeof roll);
+// console.log(typeof vvv);
+//console.log(typeof undefined);
+
+// let score:Number = 11;
+// let sco:Boolean = 0
+
