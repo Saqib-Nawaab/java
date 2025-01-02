@@ -1,7 +1,7 @@
-let name = "             Saqib nawab           "
-let bb = 'saqib'
-let = 22
-console.log(`Hello my name is ${bb} is and my age is `);
+// let name = "             Saqib nawab           "
+// let bb = 'saqib'
+// let = 22
+// console.log(`Hello my name is ${bb} is and my age is `);
 
 
 // console.log(name.trim());
@@ -14,8 +14,7 @@ console.log(`Hello my name is ${bb} is and my age is `);
 // console.log(score.includes('niame','opp'));
 
 
-
-let nnn = 'Saqib - nawab - is - a - good - person '
+// let nnn = 'Saqib - nawab - is - a - good - person '
 // console.log(nnn.split(' ', ' -'));
 
 // const getname = new String('kingbossbaby')
@@ -40,7 +39,18 @@ let nnn = 'Saqib - nawab - is - a - good - person '
 // console.log(newname);
 
 
+
 // console.log(getname.charAt(5));
 // console.log(name.indexOf('b'));
 
 
+const a = "b";
+const b = "azz";
+if (a < b) {
+  // true
+  console.log(`${a} is less than ${b}`);
+} else if (a > b) {
+  console.log(`${a} is greater than ${b}`);
+} else {
+  console.log(`${a} and ${b} are equal.`);
+}
