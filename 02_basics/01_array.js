@@ -40,7 +40,15 @@
 // let real = name.flat(Infinity);
 // console.log(real);
 
-let name = 'saqib nawab';
-console.log(Array.isArray(name));
-console.log(Array.from(name));
-console.log(Array.isArray(name));
+// let name = 'saqib nawab';
+// console.log(Array.isArray(name));
+// console.log(Array.from(name));
+// console.log(Array.isArray(name));
+// const birds = ["Parrot", "Falcon", "Owl"];
+// console.log(birds.indexOf("Owl")); //  2
+// console.log(birds.indexOf("Rabbit")); // -1
+// console.log(birds.indexOf("Ralll")); // -1
+
+
+
+            
