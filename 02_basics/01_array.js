@@ -50,5 +50,11 @@
 // console.log(birds.indexOf("Ralll")); // -1
 
 
+const car = 10;
+const bus = 20;
+const add = 0;
+
+
+
 
             
